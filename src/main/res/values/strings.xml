@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bill split</string>
+    <string name="base_value">BASE</string>
+    <string name="ans">0</string>
+</resources>
